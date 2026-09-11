@@ -1,7 +1,12 @@
 Project Overview:
-Lab SQL injection Administrator Access
-Lab SQL injection Column containing text
-Lab SQL injection Column Count
-Lab SQL injection Hidden data
-Lab SQL injection login Bypass
-Lab Finding and exploiting an unused API endpoint
+SQL Injection: Retrieving Hidden Data — Manipulating query logic to bypass application filters and display unconstrained database records.
+
+SQL Injection: Determining Column Count — Utilizing ORDER BY clauses to map database table structures for UNION-based attacks.
+
+SQL Injection: Identifying Text Columns — Executing targeted injection strings to verify string-compatible data columns in query responses.
+
+SQL Injection: Login Bypass — Exploiting authentication parameters to compromise login logic and access restricted accounts.
+
+SQL Injection: Administrator Access — Leveraging union and logical operators to extract administrative credentials and elevate privileges.
+
+API Security: Unused Endpoint Exploitation — Discovering and interacting with undocumented API routes to bypass standard access controls.
